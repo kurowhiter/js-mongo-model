@@ -1,0 +1,23 @@
+{
+  "name": "js-mongo-model",
+  "version": "1.0.0",
+  "description": "mongo model for pure js",
+  "main": "field.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurowhiter/js-mongo-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurowhiter/js-mongo-model/issues"
+  },
+  "homepage": "https://github.com/kurowhiter/js-mongo-model#readme",
+  "dependencies": {
+    "mongodb": "^5.6.0"
+  }
+}

@@ -1,2 +1,2 @@
 # js-mongo-model
-mongo model for pure js
+Simple mongo model for pure js only.
